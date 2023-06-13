@@ -1,0 +1,15 @@
+1) Define the problem
+	Analyse the operations and performance of the current 	system and subject to technological improvements
+
+2) Define the system
+	see paper
+
+3) Performance metrics
+	- Total average time in system
+	- Utilisation of both gutter processes 
+	- Utilisation of rinsing process
+	- Number of operators
+	- Number of fish thrown
+
+4) Activity diagram
+	see paper
