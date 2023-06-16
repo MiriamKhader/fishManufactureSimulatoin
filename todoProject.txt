@@ -1,9 +1,5 @@
-- machine cleaning 
-- making model run slower
-- make an agent that is the tubs and then use that to batch the fish into the tubs, so the 'amount of fish*how many boxes / size of tub'
 
-
-Formula for cleaning
+Formula for periodic cleaning
 AnyLogic = lognormal(5.14, 0.25, 125.21)
 
 Cutting and filleting
