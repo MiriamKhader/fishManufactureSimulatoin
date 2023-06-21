@@ -7,9 +7,11 @@
 3) Performance metrics
 	- Total average time in system
 	- Utilisation of both gutter processes 
-	- Utilisation of rinsing process
+	- number of Scales
+	- capacity of freezers
 	- Number of operators
-	- Number of fish thrown
 
 4) Activity diagram
 	see paper
+
+

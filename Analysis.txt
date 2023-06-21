@@ -1,0 +1,14 @@
+- Deciding freezer capacity
+
+run simulation with parameter for changing freezer capacity first between 200-700 with steps of 50, the between 500 and 2000 with steps of 500. 
+Clearly shows it makes no significant difference, so the lowest system time had a freezer capacity of 350 which is used. 
+
+or just use 5000 because a freezer will be huge in a factory so it would be able to take approx 15 tubs at least. 
+
+- Deciding number of operators
+
+Operators were varied from 1 to 4. There was a big difference from 1 to 2, but adding more operators after 2 only added a very small time improvement. Since we want to make the factory more automatic and less dependent on manual workers we chose to have 2 operators.
+
+- Deciding number of scales
+
+we found that more scales decrease the average system time slightly, so to ensure good utilisation and still reduce system time we decide to use 3 scales. even tho four scales also reduce, they might be expensive
