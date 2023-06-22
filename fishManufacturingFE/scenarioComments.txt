@@ -1,0 +1,24 @@
+Scenario1
+- new gutter is removed for the entire day
+- total system time is increased a lot but not the STD. 
+- clearly the new gutter is an important resource so buy another perhaps for scenario 2
+
+Scenario2
+- old gutter is updated so similar quality as new gutter
+- does not make huge difference on time, but does decrease utilisation of both machines
+
+Scenario3
+- old gutter is upgraded and new gutter is broken all day
+- increase the system time slightly so it needs to have at least two gutters or the one gutter needs more capacity.
+- still high variance, which may be due to amount of replications
+
+Scenario4
+- automate packing
+- doesn't seem to change a thing
+
+Scenario5
+- fire an operator so only 4
+- increase utilisation to +80 and sytem time, so not good
+
+Scenario6
+- nothing good happens
